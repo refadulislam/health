@@ -1,0 +1,149 @@
+body{
+font-family: 'Open Sans', sans-serif;
+color: #ffffff;
+}
+/*header start*/
+header{
+  background-color: #034DA2;
+}
+.logo{
+  width: 71px;
+  margin-left: 100px;
+}
+.logo_title{
+  font-weight: 700;
+  font-size:30px;
+  color: #ffffff;
+}
+.call{
+  margin: 25px 50px;
+  font-size: 22px;
+  background-color: #F42626;
+  border-radius: 5px;
+  padding: 7px 0px;
+}
+.sm{
+  color: #ffffff !important;
+}
+/*slider start*/
+
+.slider{
+  background:url(../images/slider.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:top;
+  overflow: hidden;
+
+}
+.slider_content{
+  padding-top: 328px;
+  padding-bottom: 80px;
+}
+.slider_content h1{
+  font-weight: 700;
+  font-size: 70px;
+}
+.slider_content p{
+  font-weight: 300;
+  font-size: 23px;
+}
+.bttn{
+  font-size: 30px;
+  display: block;
+    width: 146px;
+    height: 49px;
+    background: #ff0101!important;
+    padding: 10px;
+    text-align: center;
+    border-radius: 30px;
+    color: white;
+    line-height: 25px;
+    margin-top:20px;
+}
+/*feature start*/
+.feature{
+  color:black;
+}
+.feature_top h2{
+  font-weight: 500;
+  font-size: 50px;
+}
+.feature_top{
+  margin: 40px 0px;
+}
+.feature_top h1{
+  font-weight: 700;
+  font-size: 35px;
+  display: inline-block;
+  border-bottom: 2px solid grey;
+  padding-bottom: 30px;
+
+}
+.para p{
+  margin-bottom: 60px;
+}
+.wrapper{
+ font-size: 30px;
+ border-bottom: 1px solid grey;
+ padding:40px;
+}
+.wrapper p{
+  color: black;
+}
+.wrap{
+  background-color: #034DA2;
+  padding: 35px;
+  font-size: 60px;
+  border-radius: 50%;
+  border 
+}
+.wrap_b{
+  border-right: 1px solid grey;
+}
+
+.another{
+  margin: 70px 0px;
+}
+.another h3{
+  color: black;
+  border-bottom: 2px solid grey;
+  padding-bottom: 30px;
+  display: inline-block;
+}
+.another p{
+  color: black;
+}
+.check p{
+  color: black;
+}
+.an p{
+  margin: 25px 0px;
+}
+.footer{
+  background-color: #E7E7E7;
+  padding-bottom: 30px;
+
+ 
+}
+.foot_main{
+  padding-left: 150px;
+  padding-top: 30px;
+}
+.footer_head{
+   color:#737373;
+   font-weight: 700;
+   font-size: 30px;
+}
+.footer_logo{
+   color:#737373;
+   width: 80px;
+}
+.cell{
+  color: #737373!important;
+  padding-left: 393px;
+    padding-top: 40px;
+    font-size: 20px;
+}
+.cell a{
+  color: #737373;
+}

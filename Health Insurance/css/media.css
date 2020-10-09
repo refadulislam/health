@@ -1,0 +1,362 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	.logo {
+    width: 53px;
+    margin-left: 0px;
+}
+.logo_title {
+    font-size: 25px;
+}
+.call {
+    margin-left:0px;
+    margin-right: 0px;
+    margin-top: -5px;
+    margin-bottom: 10px;
+    font-size: 17px;
+    padding: 3px 0px;
+}
+.slider_content h1 {
+    font-size: 25px;
+}
+.slider_content p {
+    font-size: 16px;
+}
+.slider_content {
+    padding-top: 65px;
+    padding-bottom: 40px;
+}
+.bttn {
+    font-size: 16px;
+    display: block;
+    width: 100px;
+    height: 44px;
+    background: #ff0101!important;
+    padding: 10px;
+    text-align: center;
+    border-radius: 30px;
+    color: white;
+    line-height: 20px;
+    margin-top: 0px;
+}
+.feature_top h2 {
+    font-size: 30px;
+}
+.feature_top h1 {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.para p {
+    margin-bottom: 36px;
+}
+.wrapper {
+    font-size: 15px;
+    border-bottom:none;
+    padding: 26px;
+}
+.wrap {
+    padding: 30px;
+    font-size: 25px;
+}
+.wrap_b {
+    border-right:none;
+}
+.wrap_a{
+    border-bottom: 1px solid grey;
+    padding-bottom: 10px;
+}
+.another h3 {
+    border-bottom: 1px solid black;
+    padding-bottom: 12px;
+    font-size: 18px;
+    padding-top: 15px;
+}
+.an p {
+    margin: 15px 0px;
+    font-size: 13px;
+}
+.footer_logo {
+    color: #737373;
+    width: 50px;
+}
+.foot_main {
+    padding-left: 30px;
+    padding-top: 1px;
+}
+.cell {
+    padding-left: 35px;
+    padding-top: 13px;
+    font-size: 16px;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	.logo {
+    width: 70px;
+    margin-left: 0px;
+}
+.logo_title {
+    font-size: 25px;
+}
+.call {
+    /* margin: 5px 159px; */
+    font-size: 18px;
+    border-radius: 5px;
+    padding: 7px 0px;
+    margin-right: 283px;
+    padding-right: -24px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.slider_content h1 {
+    font-weight: 700;
+    font-size: 35px;
+}
+.slider_content p {
+    font-weight: 300;
+    font-size: 17px;
+}
+.slider_content {
+    padding-top: 84px;
+    padding-bottom: 30px;
+}
+.bttn {
+    font-size: 17px;
+    width: 110px;
+    height: 40px;
+    padding: 7px;
+    line-height: 21px;
+    margin-top: 6px;
+}
+.feature_top h2 {
+    font-weight: 500;
+    font-size: 35px;
+}
+.feature_top h1 {;
+    font-size: 25px;
+    border-bottom: 1px solid grey;
+    padding-bottom: 19px;
+}
+.para p {
+    margin-bottom: 20px;
+    font-size: 17px;
+}
+.wrap_b {
+    border-right:none;
+}
+.wrap {
+
+    padding: 23px;
+}
+.wrapper p {
+
+    font-size: 20px;
+}
+.another h3 {
+    border-bottom: 1px solid grey;
+    padding-bottom: 15px;
+    font-size: 23px;
+    padding-top: 15px;
+}
+.an p {
+    margin: 20px 0px;
+}
+.foot_main {
+    padding-left: 25px;
+    padding-top: 10px;
+}
+.cell {
+    color: #737373!important;
+    padding-left: 35px;
+    padding-top: 18px;
+    font-size: 17px;
+}
+.footer_head {
+    color: #737373;
+    font-weight: 700;
+    font-size: 20px;
+}
+.footer_logo {
+    color: #737373;
+    width: 70px;
+}
+	
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .logo {
+    width: 65px;
+    margin-left: 0px;
+}
+.call {
+    margin: 25px 0px;
+    font-size: 16px;
+    background-color: #F42626;
+    border-radius: 5px;
+    padding: 7px 0px;
+}
+.slider_content h1 {
+    font-weight: 700;
+    font-size: 45px;
+}
+.slider_content p {
+    font-weight: 300;
+    font-size: 15px;
+}
+.slider_content {
+    padding-top: 112px;
+    padding-bottom: 50px;
+}
+.bttn {
+    font-size: 20px;
+    width: 115px;
+    height: 43px;
+    padding: 8px;
+    border-radius: 30px;
+    line-height: 21px;
+    margin-top: 0px;
+}
+.feature_top h2 {
+    font-size: 40px;
+}
+.feature_top h1 {
+    font-weight: 700;
+    font-size: 28px;
+    display: inline-block;
+    border-bottom: 2px solid black;
+    padding-bottom: 20px;
+}
+.feature_top {
+    margin: 24px 0px;
+}
+.para p {
+    margin-bottom: 47px;
+    font-size: 15px;
+}
+.another h3 {
+    border-bottom: 1px solid grey;
+    padding-bottom: 15px;
+    font-size: 20px;
+    padding-top: 0px;
+}
+.an p {
+    margin: 10px 0px;
+    font-size: 12px;
+}
+.footer_logo {
+    color: #737373;
+    width: 65px;
+}
+.footer_head {
+    font-size: 24px;
+}
+}
+.foot_main {
+    padding-left: 50px;
+    padding-top: 15px;
+}
+.cell {
+    color: #737373!important;
+    padding-left: 161px;
+    padding-top: 20px;
+    font-size: 15px;
+}
+	
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .logo {
+    width: 60px;
+    margin-left: 0px;
+}
+.logo_title {
+    font-weight: 700;
+    font-size: 25px;
+    color: #ffffff;
+}
+.call {
+    margin: 17px 16px;
+    font-size: 20px;
+    background-color: #F42626;
+    border-radius: 5px;
+    padding: 7px 0px;
+}
+.slider_content h1 {
+    font-weight: 700;
+    font-size: 50px;
+}
+.slider_content p {
+    font-weight: 300;
+    font-size: 19px;
+}
+.slider_content {
+    padding-top: 182px;
+    padding-bottom: 60px;
+}
+.bttn {
+    font-size: 20px;
+    width: 106px;
+    height: 41px;
+    padding: 6px;
+    border-radius: 30px;
+    line-height: 25px;
+    margin-top: 13px;
+}
+.feature_top h2 {
+    font-weight: 500;
+    font-size: 40px;
+}
+.feature_top h1 {
+    font-weight: 700;
+    font-size: 25px;
+    display: inline-block;
+    border-bottom: 2px solid grey;
+    padding-bottom: 20px;
+}
+.para p {
+    margin-bottom: 40px;
+}
+.wrapper p {
+    color: black;
+    font-size: 21px;
+}
+.another h3 {
+    color: black;
+    border-bottom: 2px solid grey;
+    padding-bottom: 17px;
+    display: inline-block;
+}
+.an p {
+    margin: 10px 0px;
+    font-size: 15px;
+}
+.footer_head {
+    color: #737373;
+    font-weight: 700;
+    font-size: 27px;
+}
+.footer {
+    background-color: #E7E7E7;
+    padding-bottom: 10px;
+}
+.cell {
+    color: #737373!important;
+    padding-left: 264px;
+    padding-top: 25px;
+    font-size: 16px;
+}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+.cell{
+  color: #737373!important;
+  padding-left: 393px;
+    padding-top: 40px;
+    font-size: 20px;
+}
+
+}
